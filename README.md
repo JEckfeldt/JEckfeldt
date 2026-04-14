@@ -23,3 +23,6 @@
 **Web:** React, Flask, HTML/CSS
 
 **Tools:** Git, Docker, Firebase
+
+## 📄 Resume
+[View Resume (PDF)](https://drive.google.com/file/d/1qMZNLIWyNoi7UZdjhIs-wWZl5xjwKmHl/view)
