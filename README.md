@@ -17,6 +17,9 @@
 ## Skills
 
 **Languages:** Python, JavaScript, R, C#, C, C++, Java
+
 **ML/AI:** PyTorch, scikit-learn, NumPy, Pandas
+
 **Web:** React, Flask, HTML/CSS
+
 **Tools:** Git, Docker, Firebase
