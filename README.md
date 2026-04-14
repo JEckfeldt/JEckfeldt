@@ -2,16 +2,10 @@
 
 I’m a Computer Science graduate student at Washington State University focused on browser fingerprinting, security, and machine learning.
 
-## What I’m Working On
-
-* Browser & canvas fingerprinting for device identification
-* Machine learning models for authentication and anomaly detection
-* Adversarial robustness and generative models
-
 ## Projects
 
-* **Canvas Fingerprinting System**
-  Browser-based data collection system capturing pixel differences across devices for ML-based identification
+* **Canvas Device Inference System**
+  Browser-based data collection system capturing image differences across devices for ML-based identification
 
 * **CNN Image Classifier (CIFAR-10)**
   Built in PyTorch with adversarial training and performance evaluation
