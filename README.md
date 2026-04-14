@@ -1,7 +1,5 @@
 # Jake Eckfeldt
 
-I’m a Computer Science graduate student at Washington State University focused on browser fingerprinting, security, and machine learning.
-
 ## Projects
 
 * **Canvas Device Inference System**
