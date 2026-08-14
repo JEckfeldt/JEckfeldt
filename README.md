@@ -20,6 +20,3 @@
 **Web:** React, Next.js, FastAPI, Node.js, REST APIs, PostgreSQL
 
 **Tools:** AWS, Docker, GitHub, CI/CD, Git, pytest, Linux
-
-## 📄 Resume
-[View Resume (PDF)](https://drive.google.com/file/d/1qMZNLIWyNoi7UZdjhIs-wWZl5xjwKmHl/view)
