@@ -1,28 +1,17 @@
 # Jake Eckfeldt
 
+
 ## Projects
-
+* **[Personal Finance Tracker](https://github.com/JEckfeldt/Finances)**
+  Full-stack finance app in TypeScript, React, Next.js, and Python. Tracks spending and budgets, ships Gemini insights and natural-language actions, and ran in production on AWS with Docker and GitHub CI/CD.
+* **[CodeContext AI Code Assistant](https://github.com/JEckfeldt/CodeContext)**
+  AI coding assistant in TypeScript, React, Next.js, and Python. Indexes Git repositories with RAG and OpenAI so developers can search, explain, and generate agentic architecture and implementation plans from real codebase context.
 * **Canvas Device Inference System**
-  Browser-based data collection system capturing image differences across devices for ML-based identification
+  Browser-based data collection system capturing Canvas and WebGL rendering differences across devices for fingerprinting and device re-identification research (ACM IMC 2026).
 
-* **CNN Image Classifier (CIFAR-10)**
-  Built in PyTorch with adversarial training and performance evaluation
-
-* **Risk-Based Authentication Model**
-  Random Forest model to detect suspicious login attempts using device and network features
-
-* **DDoS Drone Defense**
-  Tested containerized vs. non-containerized drone OS under load for defense purposes (Repository private)
 
 ## Skills
-
-**Languages:** Python, JavaScript, R, C#, C, C++, Java
-
-**ML/AI:** PyTorch, scikit-learn, NumPy, Pandas
-
-**Web:** React, Flask, HTML/CSS
-
-**Tools:** Git, Docker, Firebase
-
-## 📄 Resume
-[View Resume (PDF)](https://drive.google.com/file/d/1qMZNLIWyNoi7UZdjhIs-wWZl5xjwKmHl/view)
+**Languages:** TypeScript, JavaScript, Python, HTML, CSS, SQL, C, C++
+**ML/AI:** OpenAI API, Gemini API, LLMs, RAG, Agentic AI, pandas, NumPy
+**Web:** React, Next.js, FastAPI, Node.js, REST APIs, PostgreSQL
+**Tools:** AWS, Docker, GitHub, CI/CD, Git, pytest, Linux
